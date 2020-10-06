@@ -18,7 +18,7 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "electron-util": "^0.13.0",
+    "electron-util": "git://github.com/evansben87/electron-util",
     "execa": "^2.0.4",
     "macos-version": "^5.2.0"
   },
